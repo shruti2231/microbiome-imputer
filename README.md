@@ -44,7 +44,6 @@ This command will load the input file `sp_profile.csv`, perform imputation, and 
 
 * The input CSV should contain species abundance profiles.
 * Ensure the data is numeric and missing values or zeros represent data points to be imputed.
-* The last three columns can be categorical and will be preserved without modification.
 
 ## Notes
 
